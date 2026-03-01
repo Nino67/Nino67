@@ -4,7 +4,6 @@
   <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nino67&layout=compact" />
 </div>  
 
-## Wonder if this works                                              
 <div>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
